@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I ‘m currently reading a Rich dad Poor dad book the main motive is develop your own unique path to attain financial freedom.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with  me:</h3>
 <p align="left">
 <a href="https://codepen.io/karthi_keyan-16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="karthi_keyan-16" height="30" width="40" /></a>
 <a href="https://twitter.com/karthik62904548" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karthik62904548" height="30" width="40" /></a>
